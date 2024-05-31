@@ -1,0 +1,63 @@
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+    line-height: 70px;
+    font-size: 1.4em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 1px;
+}
+h1{
+    text-align: center;
+}
+.sual{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: auto;
+}
+.sualTam{
+    margin: 5px;
+    font-size: 20px;
+    background-color: skyblue;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.a{
+    margin: 5px;
+    font-size: 20px;
+    background-color: skyblue;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+
+}
+h2{
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    background-color: lime;
+    height: 50px;
+    width: 99%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.netice{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+}
