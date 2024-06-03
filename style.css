@@ -1,4 +1,11 @@
-header{
+html,
+body {
+    width: 99%;
+    height: 100%;
+    box-sizing: border-box;
+}
+
+header {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -9,16 +16,19 @@ header{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     letter-spacing: 1px;
 }
-h1{
+
+h1 {
     text-align: center;
 }
-.sual{
+
+main {
     display: flex;
     justify-content: space-around;
     align-items: center;
     margin: auto;
 }
-.sualTam{
+
+.sualTam {
     margin: 5px;
     font-size: 20px;
     background-color: skyblue;
@@ -28,12 +38,28 @@ h1{
     align-items: center;
     width: 150px;
 }
-nav{
+
+@media (max-width : 500px) {
+    main {
+        display: inline-block;
+        width: 90%;
+    }
+
+    .sualTam {
+        width: 95%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+nav {
     display: flex;
     justify-content: center;
     align-items: center;
 }
-.a{
+
+.a {
     margin: 5px;
     font-size: 20px;
     background-color: skyblue;
@@ -44,7 +70,8 @@ nav{
     width: 200px;
 
 }
-h2{
+
+h2 {
     position: fixed;
     bottom: 0;
     text-align: center;
@@ -55,7 +82,8 @@ h2{
     justify-content: center;
     align-items: center;
 }
-.netice{
+
+.netice {
     display: flex;
     justify-content: center;
     align-items: center;
