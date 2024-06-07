@@ -40,7 +40,7 @@ cavab[0].addEventListener('click', () => {
     cavab[1].remove()
     cavab[2].remove()
     cavab[3].remove()
-})
+},{once : true})
 cavab[1].addEventListener('click', () => {
     cavab[1].style.backgroundColor = 'red'
     cavab[1].style.color = 'white'
@@ -55,7 +55,7 @@ cavab[1].addEventListener('click', () => {
     cavab[0].remove()
     cavab[2].remove()
     cavab[3].remove()
-})
+},{once : true})
 cavab[2].addEventListener('click', () => {
     cavab[2].style.backgroundColor = 'green'
     cavab[2].style.color = 'white'
@@ -70,7 +70,7 @@ cavab[2].addEventListener('click', () => {
     cavab[1].remove()
     cavab[0].remove()
     cavab[3].remove()
-})
+},{once : true})
 cavab[3].addEventListener('click', () => {
     cavab[3].style.backgroundColor = 'red'
     cavab[3].style.color = 'white'
@@ -85,7 +85,7 @@ cavab[3].addEventListener('click', () => {
     cavab[1].remove()
     cavab[2].remove()
     cavab[0].remove()
-})
+},{once : true})
 cavab2[0].addEventListener('click', () => {
     cavab2[0].style.backgroundColor = 'red'
     cavab2[0].style.color = 'white'
@@ -100,7 +100,7 @@ cavab2[0].addEventListener('click', () => {
     cavab2[1].remove()
     cavab2[2].remove()
     cavab2[3].remove()
-})
+},{once : true})
 cavab2[1].addEventListener('click', () => {
     cavab2[1].style.backgroundColor = 'red'
     cavab2[1].style.color = 'white'
@@ -115,7 +115,7 @@ cavab2[1].addEventListener('click', () => {
     cavab2[0].remove()
     cavab2[2].remove()
     cavab2[3].remove()
-})
+},{once : true})
 cavab2[2].addEventListener('click', () => {
     cavab2[2].style.backgroundColor = 'red'
     cavab2[2].style.color = 'white'
@@ -130,7 +130,7 @@ cavab2[2].addEventListener('click', () => {
     cavab2[0].remove()
     cavab2[1].remove()
     cavab2[3].remove()
-})
+},{once : true})
 cavab2[3].addEventListener('click', () => {
     cavab2[3].style.backgroundColor = 'green'
     cavab2[3].style.color = 'white'
@@ -145,7 +145,7 @@ cavab2[3].addEventListener('click', () => {
     cavab2[0].remove()
     cavab2[1].remove()
     cavab2[2].remove()
-})
+},{once : true})
 cavab3[0].addEventListener('click', () => {
     cavab3[0].style.backgroundColor = 'green'
     cavab3[0].style.color = 'white'
@@ -160,7 +160,7 @@ cavab3[0].addEventListener('click', () => {
     cavab3[1].remove()
     cavab3[2].remove()
     cavab3[3].remove()
-})
+},{once : true})
 cavab3[1].addEventListener('click', () => {
     cavab3[1].style.backgroundColor = 'red'
     cavab3[1].style.color = 'white'
@@ -175,7 +175,7 @@ cavab3[1].addEventListener('click', () => {
     cavab3[0].remove()
     cavab3[2].remove()
     cavab3[3].remove()
-})
+},{once : true})
 cavab3[2].addEventListener('click', () => {
     cavab3[2].style.backgroundColor = 'red'
     cavab3[2].style.color = 'white'
@@ -190,7 +190,7 @@ cavab3[2].addEventListener('click', () => {
     cavab3[0].remove()
     cavab3[1].remove()
     cavab3[3].remove()
-})
+},{once : true})
 cavab3[3].addEventListener('click', () => {
     cavab3[3].style.backgroundColor = 'red'
     cavab3[3].style.color = 'white'
@@ -206,7 +206,7 @@ cavab3[3].addEventListener('click', () => {
     cavab3[0].remove()
     cavab3[1].remove()
     cavab3[2].remove()
-})
+},{once : true})
 cavab4[0].addEventListener('click', () => {
     cavab4[0].style.backgroundColor = 'red'
     cavab4[0].style.color = 'white'
@@ -221,7 +221,7 @@ cavab4[0].addEventListener('click', () => {
     cavab4[1].remove()
     cavab4[2].remove()
     cavab4[3].remove()
-})
+},{once : true})
 cavab4[1].addEventListener('click', () => {
     cavab4[1].style.backgroundColor = 'red'
     cavab4[1].style.color = 'white'
@@ -236,7 +236,7 @@ cavab4[1].addEventListener('click', () => {
     cavab4[0].remove()
     cavab4[2].remove()
     cavab4[3].remove()
-})
+},{once : true})
 cavab4[2].addEventListener('click', () => {
     cavab4[2].style.backgroundColor = 'green'
     cavab4[2].style.color = 'white'
@@ -251,7 +251,7 @@ cavab4[2].addEventListener('click', () => {
     cavab4[0].remove()
     cavab4[1].remove()
     cavab4[3].remove()
-})
+},{once : true})
 cavab4[3].addEventListener('click', () => {
     cavab4[3].style.backgroundColor = 'red'
     cavab4[3].style.color = 'white'
@@ -267,7 +267,7 @@ cavab4[3].addEventListener('click', () => {
     cavab4[0].remove()
     cavab4[1].remove()
     cavab4[2].remove()
-})
+},{once : true})
 cavab5[0].addEventListener('click', () => {
     cavab5[0].style.backgroundColor = 'red'
     cavab5[0].style.color = 'white'
@@ -282,7 +282,7 @@ cavab5[0].addEventListener('click', () => {
     cavab5[1].remove()
     cavab5[2].remove()
     cavab5[3].remove()
-})
+},{once : true})
 cavab5[1].addEventListener('click', () => {
     cavab5[1].style.backgroundColor = 'green'
     cavab5[1].style.color = 'white'
@@ -297,7 +297,7 @@ cavab5[1].addEventListener('click', () => {
     cavab5[0].remove()
     cavab5[2].remove()
     cavab5[3].remove()
-})
+},{once : true})
 cavab5[2].addEventListener('click', () => {
     cavab5[2].style.backgroundColor = 'red'
     cavab5[2].style.color = 'white'
@@ -312,7 +312,7 @@ cavab5[2].addEventListener('click', () => {
     cavab5[0].remove()
     cavab5[1].remove()
     cavab5[3].remove()
-})
+},{once : true})
 cavab5[3].addEventListener('click', () => {
     cavab5[3].style.backgroundColor = 'red'
     cavab5[3].style.color = 'white'
@@ -328,7 +328,7 @@ cavab5[3].addEventListener('click', () => {
     cavab5[0].remove()
     cavab5[1].remove()
     cavab5[2].remove()
-})
+},{once : true})
 cavab6[0].addEventListener('click', () => {
     cavab6[0].style.backgroundColor = 'red'
     cavab6[0].style.color = 'white'
@@ -343,7 +343,7 @@ cavab6[0].addEventListener('click', () => {
     cavab6[1].remove()
     cavab6[2].remove()
     cavab6[3].remove()
-})
+},{once : true})
 cavab6[1].addEventListener('click', () => {
     cavab6[1].style.backgroundColor = 'red'
     cavab6[1].style.color = 'white'
@@ -358,7 +358,7 @@ cavab6[1].addEventListener('click', () => {
     cavab6[0].remove()
     cavab6[2].remove()
     cavab6[3].remove()
-})
+},{once : true})
 cavab6[2].addEventListener('click', () => {
     cavab6[2].style.backgroundColor = 'green'
     cavab6[2].style.color = 'white'
@@ -373,7 +373,7 @@ cavab6[2].addEventListener('click', () => {
     cavab6[0].remove()
     cavab6[1].remove()
     cavab6[3].remove()
-})
+},{once : true})
 cavab6[3].addEventListener('click', () => {
     cavab6[3].style.backgroundColor = 'red'
     cavab6[3].style.color = 'white'
@@ -389,7 +389,7 @@ cavab6[3].addEventListener('click', () => {
     cavab6[0].remove()
     cavab6[1].remove()
     cavab6[2].remove()
-})
+},{once : true})
 cavab7[0].addEventListener('click', () => {
     cavab7[0].style.backgroundColor = 'red'
     cavab7[0].style.color = 'white'
@@ -404,7 +404,7 @@ cavab7[0].addEventListener('click', () => {
     cavab7[1].remove()
     cavab7[2].remove()
     cavab7[3].remove()
-})
+},{once : true})
 cavab7[1].addEventListener('click', () => {
     cavab7[1].style.backgroundColor = 'red'
     cavab7[1].style.color = 'white'
@@ -419,7 +419,7 @@ cavab7[1].addEventListener('click', () => {
     cavab7[0].remove()
     cavab7[2].remove()
     cavab7[3].remove()
-})
+},{once : true})
 cavab7[2].addEventListener('click', () => {
     cavab7[2].style.backgroundColor = 'red'
     cavab7[2].style.color = 'white'
@@ -434,7 +434,7 @@ cavab7[2].addEventListener('click', () => {
     cavab7[0].remove()
     cavab7[1].remove()
     cavab7[3].remove()
-})
+},{once : true})
 cavab7[3].addEventListener('click', () => {
     cavab7[3].style.backgroundColor = 'green'
     cavab7[3].style.color = 'white'
@@ -450,7 +450,7 @@ cavab7[3].addEventListener('click', () => {
     cavab7[0].remove()
     cavab7[1].remove()
     cavab7[2].remove()
-})
+},{once : true})
 cavab8[0].addEventListener('click', () => {
     cavab8[0].style.backgroundColor = 'red'
     cavab8[0].style.color = 'white'
@@ -465,7 +465,7 @@ cavab8[0].addEventListener('click', () => {
     cavab8[1].remove()
     cavab8[2].remove()
     cavab8[3].remove()
-})
+},{once : true})
 cavab8[1].addEventListener('click', () => {
     cavab8[1].style.backgroundColor = 'green'
     cavab8[1].style.color = 'white'
@@ -480,7 +480,7 @@ cavab8[1].addEventListener('click', () => {
     cavab8[0].remove()
     cavab8[2].remove()
     cavab8[3].remove()
-})
+},{once : true})
 cavab8[2].addEventListener('click', () => {
     cavab8[2].style.backgroundColor = 'red'
     cavab8[2].style.color = 'white'
@@ -495,7 +495,7 @@ cavab8[2].addEventListener('click', () => {
     cavab8[0].remove()
     cavab8[1].remove()
     cavab8[3].remove()
-})
+},{once : true})
 cavab8[3].addEventListener('click', () => {
     cavab8[3].style.backgroundColor = 'red'
     cavab8[3].style.color = 'white'
@@ -511,7 +511,7 @@ cavab8[3].addEventListener('click', () => {
     cavab8[0].remove()
     cavab8[1].remove()
     cavab8[2].remove()
-})
+},{once : true})
 cavab9[0].addEventListener('click', () => {
     cavab9[0].style.backgroundColor = 'red'
     cavab9[0].style.color = 'white'
@@ -526,7 +526,7 @@ cavab9[0].addEventListener('click', () => {
     cavab9[1].remove()
     cavab9[2].remove()
     cavab9[3].remove()
-})
+},{once : true})
 cavab9[1].addEventListener('click', () => {
     cavab9[1].style.backgroundColor = 'green'
     cavab9[1].style.color = 'white'
@@ -541,7 +541,7 @@ cavab9[1].addEventListener('click', () => {
     cavab9[0].remove()
     cavab9[2].remove()
     cavab9[3].remove()
-})
+},{once : true})
 cavab9[2].addEventListener('click', () => {
     cavab9[2].style.backgroundColor = 'red'
     cavab9[2].style.color = 'white'
@@ -556,7 +556,7 @@ cavab9[2].addEventListener('click', () => {
     cavab9[0].remove()
     cavab9[1].remove()
     cavab9[3].remove()
-})
+},{once : true})
 cavab9[3].addEventListener('click', () => {
     cavab9[3].style.backgroundColor = 'red'
     cavab9[3].style.color = 'white'
@@ -572,7 +572,7 @@ cavab9[3].addEventListener('click', () => {
     cavab9[0].remove()
     cavab9[1].remove()
     cavab9[2].remove()
-})
+},{once : true})
 cavab10[0].addEventListener('click', () => {
     cavab10[0].style.backgroundColor = 'green'
     cavab10[0].style.color = 'white'
@@ -587,7 +587,7 @@ cavab10[0].addEventListener('click', () => {
     cavab10[1].remove()
     cavab10[2].remove()
     cavab10[3].remove()
-})
+},{once : true})
 cavab10[1].addEventListener('click', () => {
     cavab10[1].style.backgroundColor = 'red'
     cavab10[1].style.color = 'white'
@@ -602,7 +602,7 @@ cavab10[1].addEventListener('click', () => {
     cavab10[0].remove()
     cavab10[2].remove()
     cavab10[3].remove()
-})
+},{once : true})
 cavab10[2].addEventListener('click', () => {
     cavab10[2].style.backgroundColor = 'red'
     cavab10[2].style.color = 'white'
@@ -617,7 +617,7 @@ cavab10[2].addEventListener('click', () => {
     cavab10[0].remove()
     cavab10[1].remove()
     cavab10[3].remove()
-})
+},{once : true})
 cavab10[3].addEventListener('click', () => {
     cavab10[3].style.backgroundColor = 'red'
     cavab10[3].style.color = 'white'
@@ -633,7 +633,7 @@ cavab10[3].addEventListener('click', () => {
     cavab10[0].remove()
     cavab10[1].remove()
     cavab10[2].remove()
-})
+},{once : true})
 cavab11[0].addEventListener('click', () => {
     cavab11[0].style.backgroundColor = 'red'
     cavab11[0].style.color = 'white'
@@ -648,7 +648,7 @@ cavab11[0].addEventListener('click', () => {
     cavab11[1].remove()
     cavab11[2].remove()
     cavab11[3].remove()
-})
+},{once : true})
 cavab11[1].addEventListener('click', () => {
     cavab11[1].style.backgroundColor = 'green'
     cavab11[1].style.color = 'white'
@@ -663,7 +663,7 @@ cavab11[1].addEventListener('click', () => {
     cavab11[0].remove()
     cavab11[2].remove()
     cavab11[3].remove()
-})
+},{once : true})
 cavab11[2].addEventListener('click', () => {
     cavab11[2].style.backgroundColor = 'red'
     cavab11[2].style.color = 'white'
@@ -678,7 +678,7 @@ cavab11[2].addEventListener('click', () => {
     cavab11[0].remove()
     cavab11[1].remove()
     cavab11[3].remove()
-})
+},{once : true})
 cavab11[3].addEventListener('click', () => {
     cavab11[3].style.backgroundColor = 'red'
     cavab11[3].style.color = 'white'
@@ -694,7 +694,7 @@ cavab11[3].addEventListener('click', () => {
     cavab11[0].remove()
     cavab11[1].remove()
     cavab11[2].remove()
-})
+},{once : true})
 cavab12[0].addEventListener('click', () => {
     cavab12[0].style.backgroundColor = 'red'
     cavab12[0].style.color = 'white'
@@ -709,7 +709,7 @@ cavab12[0].addEventListener('click', () => {
     cavab12[1].remove()
     cavab12[2].remove()
     cavab12[3].remove()
-})
+},{once : true})
 cavab12[1].addEventListener('click', () => {
     cavab12[1].style.backgroundColor = 'red'
     cavab12[1].style.color = 'white'
@@ -724,7 +724,7 @@ cavab12[1].addEventListener('click', () => {
     cavab12[0].remove()
     cavab12[2].remove()
     cavab12[3].remove()
-})
+},{once : true})
 cavab12[2].addEventListener('click', () => {
     cavab12[2].style.backgroundColor = 'green'
     cavab12[2].style.color = 'white'
@@ -739,7 +739,7 @@ cavab12[2].addEventListener('click', () => {
     cavab12[0].remove()
     cavab12[1].remove()
     cavab12[3].remove()
-})
+},{once : true})
 cavab12[3].addEventListener('click', () => {
     cavab12[3].style.backgroundColor = 'red'
     cavab12[3].style.color = 'white'
@@ -755,7 +755,7 @@ cavab12[3].addEventListener('click', () => {
     cavab12[0].remove()
     cavab12[1].remove()
     cavab12[2].remove()
-})
+},{once : true})
 cavab13[0].addEventListener('click', () => {
     cavab13[0].style.backgroundColor = 'red'
     cavab13[0].style.color = 'white'
@@ -770,7 +770,7 @@ cavab13[0].addEventListener('click', () => {
     cavab13[1].remove()
     cavab13[2].remove()
     cavab13[3].remove()
-})
+},{once : true})
 cavab13[1].addEventListener('click', () => {
     cavab13[1].style.backgroundColor = 'red'
     cavab13[1].style.color = 'white'
@@ -785,7 +785,7 @@ cavab13[1].addEventListener('click', () => {
     cavab13[0].remove()
     cavab13[2].remove()
     cavab13[3].remove()
-})
+},{once : true})
 cavab13[2].addEventListener('click', () => {
     cavab13[2].style.backgroundColor = 'green'
     cavab13[2].style.color = 'white'
@@ -800,7 +800,7 @@ cavab13[2].addEventListener('click', () => {
     cavab13[0].remove()
     cavab13[1].remove()
     cavab13[3].remove()
-})
+},{once : true})
 cavab13[3].addEventListener('click', () => {
     cavab13[3].style.backgroundColor = 'red'
     cavab13[3].style.color = 'white'
@@ -816,7 +816,7 @@ cavab13[3].addEventListener('click', () => {
     cavab13[0].remove()
     cavab13[1].remove()
     cavab13[2].remove()
-})
+},{once : true})
 cavab14[0].addEventListener('click', () => {
     cavab14[0].style.backgroundColor = 'red'
     cavab14[0].style.color = 'white'
@@ -831,7 +831,7 @@ cavab14[0].addEventListener('click', () => {
     cavab14[1].remove()
     cavab14[2].remove()
     cavab14[3].remove()
-})
+},{once : true})
 cavab14[1].addEventListener('click', () => {
     cavab14[1].style.backgroundColor = 'red'
     cavab14[1].style.color = 'white'
@@ -846,7 +846,7 @@ cavab14[1].addEventListener('click', () => {
     cavab14[0].remove()
     cavab14[2].remove()
     cavab14[3].remove()
-})
+},{once : true})
 cavab14[2].addEventListener('click', () => {
     cavab14[2].style.backgroundColor = 'green'
     cavab14[2].style.color = 'white'
@@ -861,7 +861,7 @@ cavab14[2].addEventListener('click', () => {
     cavab14[0].remove()
     cavab14[1].remove()
     cavab14[3].remove()
-})
+},{once : true})
 cavab14[3].addEventListener('click', () => {
     cavab14[3].style.backgroundColor = 'red'
     cavab14[3].style.color = 'white'
@@ -877,7 +877,7 @@ cavab14[3].addEventListener('click', () => {
     cavab14[0].remove()
     cavab14[1].remove()
     cavab14[2].remove()
-})
+},{once : true})
 cavab15[0].addEventListener('click', () => {
     cavab15[0].style.backgroundColor = 'red'
     cavab15[0].style.color = 'white'
@@ -892,7 +892,7 @@ cavab15[0].addEventListener('click', () => {
     cavab15[1].remove()
     cavab15[2].remove()
     cavab15[3].remove()
-})
+},{once : true})
 cavab15[1].addEventListener('click', () => {
     cavab15[1].style.backgroundColor = 'green'
     cavab15[1].style.color = 'white'
@@ -907,7 +907,7 @@ cavab15[1].addEventListener('click', () => {
     cavab15[0].remove()
     cavab15[2].remove()
     cavab15[3].remove()
-})
+},{once : true})
 cavab15[2].addEventListener('click', () => {
     cavab15[2].style.backgroundColor = 'red'
     cavab15[2].style.color = 'white'
@@ -922,7 +922,7 @@ cavab15[2].addEventListener('click', () => {
     cavab15[0].remove()
     cavab15[1].remove()
     cavab15[3].remove()
-})
+},{once : true})
 cavab15[3].addEventListener('click', () => {
     cavab15[3].style.backgroundColor = 'red'
     cavab15[3].style.color = 'white'
@@ -938,7 +938,7 @@ cavab15[3].addEventListener('click', () => {
     cavab15[0].remove()
     cavab15[1].remove()
     cavab15[2].remove()
-})
+},{once : true})
 cavab16[0].addEventListener('click', () => {
     cavab16[0].style.backgroundColor = 'green'
     cavab16[0].style.color = 'white'
@@ -953,7 +953,7 @@ cavab16[0].addEventListener('click', () => {
     cavab16[1].remove()
     cavab16[2].remove()
     cavab16[3].remove()
-})
+},{once : true})
 cavab16[1].addEventListener('click', () => {
     cavab16[1].style.backgroundColor = 'red'
     cavab16[1].style.color = 'white'
@@ -968,7 +968,7 @@ cavab16[1].addEventListener('click', () => {
     cavab16[0].remove()
     cavab16[2].remove()
     cavab16[3].remove()
-})
+},{once : true})
 cavab16[2].addEventListener('click', () => {
     cavab16[2].style.backgroundColor = 'red'
     cavab16[2].style.color = 'white'
@@ -983,7 +983,7 @@ cavab16[2].addEventListener('click', () => {
     cavab16[0].remove()
     cavab16[1].remove()
     cavab16[3].remove()
-})
+},{once : true})
 cavab16[3].addEventListener('click', () => {
     cavab16[3].style.backgroundColor = 'red'
     cavab16[3].style.color = 'white'
@@ -999,7 +999,7 @@ cavab16[3].addEventListener('click', () => {
     cavab16[0].remove()
     cavab16[1].remove()
     cavab16[2].remove()
-})
+},{once : true})
 cavab17[0].addEventListener('click', () => {
     cavab17[0].style.backgroundColor = 'red'
     cavab17[0].style.color = 'white'
@@ -1014,7 +1014,7 @@ cavab17[0].addEventListener('click', () => {
     cavab17[1].remove()
     cavab17[2].remove()
     cavab17[3].remove()
-})
+},{once : true})
 cavab17[1].addEventListener('click', () => {
     cavab17[1].style.backgroundColor = 'red'
     cavab17[1].style.color = 'white'
@@ -1029,7 +1029,7 @@ cavab17[1].addEventListener('click', () => {
     cavab17[0].remove()
     cavab17[2].remove()
     cavab17[3].remove()
-})
+},{once : true})
 cavab17[2].addEventListener('click', () => {
     cavab17[2].style.backgroundColor = 'green'
     cavab17[2].style.color = 'white'
@@ -1044,7 +1044,7 @@ cavab17[2].addEventListener('click', () => {
     cavab17[0].remove()
     cavab17[1].remove()
     cavab17[3].remove()
-})
+},{once : true})
 cavab17[3].addEventListener('click', () => {
     cavab17[3].style.backgroundColor = 'red'
     cavab17[3].style.color = 'white'
@@ -1060,7 +1060,7 @@ cavab17[3].addEventListener('click', () => {
     cavab17[0].remove()
     cavab17[1].remove()
     cavab17[2].remove()
-})
+},{once : true})
 cavab18[0].addEventListener('click', () => {
     cavab18[0].style.backgroundColor = 'red'
     cavab18[0].style.color = 'white'
@@ -1075,7 +1075,7 @@ cavab18[0].addEventListener('click', () => {
     cavab18[1].remove()
     cavab18[2].remove()
     cavab18[3].remove()
-})
+},{once : true})
 cavab18[1].addEventListener('click', () => {
     cavab18[1].style.backgroundColor = 'red'
     cavab18[1].style.color = 'white'
@@ -1090,7 +1090,7 @@ cavab18[1].addEventListener('click', () => {
     cavab18[0].remove()
     cavab18[2].remove()
     cavab18[3].remove()
-})
+},{once : true})
 cavab18[2].addEventListener('click', () => {
     cavab18[2].style.backgroundColor = 'green'
     cavab18[2].style.color = 'white'
@@ -1105,7 +1105,7 @@ cavab18[2].addEventListener('click', () => {
     cavab18[0].remove()
     cavab18[1].remove()
     cavab18[3].remove()
-})
+},{once : true})
 cavab18[3].addEventListener('click', () => {
     cavab18[3].style.backgroundColor = 'red'
     cavab18[3].style.color = 'white'
@@ -1121,7 +1121,7 @@ cavab18[3].addEventListener('click', () => {
     cavab18[0].remove()
     cavab18[1].remove()
     cavab18[2].remove()
-})
+},{once : true})
 cavab19[0].addEventListener('click', () => {
     cavab19[0].style.backgroundColor = 'red'
     cavab19[0].style.color = 'white'
@@ -1136,7 +1136,7 @@ cavab19[0].addEventListener('click', () => {
     cavab19[1].remove()
     cavab19[2].remove()
     cavab19[3].remove()
-})
+},{once : true})
 cavab19[1].addEventListener('click', () => {
     cavab19[1].style.backgroundColor = 'green'
     cavab19[1].style.color = 'white'
@@ -1151,7 +1151,7 @@ cavab19[1].addEventListener('click', () => {
     cavab19[0].remove()
     cavab19[2].remove()
     cavab19[3].remove()
-})
+},{once : true})
 cavab19[2].addEventListener('click', () => {
     cavab19[2].style.backgroundColor = 'red'
     cavab19[2].style.color = 'white'
@@ -1166,7 +1166,7 @@ cavab19[2].addEventListener('click', () => {
     cavab19[0].remove()
     cavab19[1].remove()
     cavab19[3].remove()
-})
+},{once : true})
 cavab19[3].addEventListener('click', () => {
     cavab19[3].style.backgroundColor = 'red'
     cavab19[3].style.color = 'white'
@@ -1182,7 +1182,7 @@ cavab19[3].addEventListener('click', () => {
     cavab19[0].remove()
     cavab19[1].remove()
     cavab19[2].remove()
-})
+},{once : true})
 cavab20[0].addEventListener('click', () => {
     cavab20[0].style.backgroundColor = 'red'
     cavab20[0].style.color = 'white'
@@ -1197,7 +1197,7 @@ cavab20[0].addEventListener('click', () => {
     cavab20[1].remove()
     cavab20[2].remove()
     cavab20[3].remove()
-})
+},{once : true})
 cavab20[1].addEventListener('click', () => {
     cavab20[1].style.backgroundColor = 'green'
     cavab20[1].style.color = 'white'
@@ -1212,7 +1212,7 @@ cavab20[1].addEventListener('click', () => {
     cavab20[0].remove()
     cavab20[2].remove()
     cavab20[3].remove()
-})
+},{once : true})
 cavab20[2].addEventListener('click', () => {
     cavab20[2].style.backgroundColor = 'red'
     cavab20[2].style.color = 'white'
@@ -1227,7 +1227,7 @@ cavab20[2].addEventListener('click', () => {
     cavab20[0].remove()
     cavab20[1].remove()
     cavab20[3].remove()
-})
+},{once : true})
 cavab20[3].addEventListener('click', () => {
     cavab20[3].style.backgroundColor = 'red'
     cavab20[3].style.color = 'white'
@@ -1243,7 +1243,7 @@ cavab20[3].addEventListener('click', () => {
     cavab20[0].remove()
     cavab20[1].remove()
     cavab20[2].remove()
-})
+},{once : true})
 cavab21[0].addEventListener('click', () => {
     cavab21[0].style.backgroundColor = 'red'
     cavab21[0].style.color = 'white'
@@ -1258,7 +1258,7 @@ cavab21[0].addEventListener('click', () => {
     cavab21[1].remove()
     cavab21[2].remove()
     cavab21[3].remove()
-})
+},{once : true})
 cavab21[1].addEventListener('click', () => {
     cavab21[1].style.backgroundColor = 'red'
     cavab21[1].style.color = 'white'
@@ -1273,7 +1273,7 @@ cavab21[1].addEventListener('click', () => {
     cavab21[0].remove()
     cavab21[2].remove()
     cavab21[3].remove()
-})
+},{once : true})
 cavab21[2].addEventListener('click', () => {
     cavab21[2].style.backgroundColor = 'green'
     cavab21[2].style.color = 'white'
@@ -1288,7 +1288,7 @@ cavab21[2].addEventListener('click', () => {
     cavab21[0].remove()
     cavab21[1].remove()
     cavab21[3].remove()
-})
+},{once : true})
 cavab21[3].addEventListener('click', () => {
     cavab21[3].style.backgroundColor = 'red'
     cavab21[3].style.color = 'white'
@@ -1304,7 +1304,7 @@ cavab21[3].addEventListener('click', () => {
     cavab21[0].remove()
     cavab21[1].remove()
     cavab21[2].remove()
-})
+},{once : true})
 cavab22[0].addEventListener('click', () => {
     cavab22[0].style.backgroundColor = 'red'
     cavab22[0].style.color = 'white'
@@ -1319,7 +1319,7 @@ cavab22[0].addEventListener('click', () => {
     cavab22[1].remove()
     cavab22[2].remove()
     cavab22[3].remove()
-})
+},{once : true})
 cavab22[1].addEventListener('click', () => {
     cavab22[1].style.backgroundColor = 'green'
     cavab22[1].style.color = 'white'
@@ -1334,7 +1334,7 @@ cavab22[1].addEventListener('click', () => {
     cavab22[0].remove()
     cavab22[2].remove()
     cavab22[3].remove()
-})
+},{once : true})
 cavab22[2].addEventListener('click', () => {
     cavab22[2].style.backgroundColor = 'red'
     cavab22[2].style.color = 'white'
@@ -1349,7 +1349,7 @@ cavab22[2].addEventListener('click', () => {
     cavab22[0].remove()
     cavab22[1].remove()
     cavab22[3].remove()
-})
+},{once : true})
 cavab22[3].addEventListener('click', () => {
     cavab22[3].style.backgroundColor = 'red'
     cavab22[3].style.color = 'white'
@@ -1365,7 +1365,7 @@ cavab22[3].addEventListener('click', () => {
     cavab22[0].remove()
     cavab22[1].remove()
     cavab22[2].remove()
-})
+},{once : true})
 cavab23[0].addEventListener('click', () => {
     cavab23[0].style.backgroundColor = 'green'
     cavab23[0].style.color = 'white'
@@ -1380,7 +1380,7 @@ cavab23[0].addEventListener('click', () => {
     cavab23[1].remove()
     cavab23[2].remove()
     cavab23[3].remove()
-})
+},{once : true})
 cavab23[1].addEventListener('click', () => {
     cavab23[1].style.backgroundColor = 'red'
     cavab23[1].style.color = 'white'
@@ -1395,7 +1395,7 @@ cavab23[1].addEventListener('click', () => {
     cavab23[0].remove()
     cavab23[2].remove()
     cavab23[3].remove()
-})
+},{once : true})
 cavab23[2].addEventListener('click', () => {
     cavab23[2].style.backgroundColor = 'red'
     cavab23[2].style.color = 'white'
@@ -1410,7 +1410,7 @@ cavab23[2].addEventListener('click', () => {
     cavab23[0].remove()
     cavab23[1].remove()
     cavab23[3].remove()
-})
+},{once : true})
 cavab23[3].addEventListener('click', () => {
     cavab23[3].style.backgroundColor = 'red'
     cavab23[3].style.color = 'white'
@@ -1426,7 +1426,7 @@ cavab23[3].addEventListener('click', () => {
     cavab23[0].remove()
     cavab23[1].remove()
     cavab23[2].remove()
-})
+},{once : true})
 cavab24[0].addEventListener('click', () => {
     cavab24[0].style.backgroundColor = 'green'
     cavab24[0].style.color = 'white'
@@ -1441,7 +1441,7 @@ cavab24[0].addEventListener('click', () => {
     cavab24[1].remove()
     cavab24[2].remove()
     cavab24[3].remove()
-})
+},{once : true})
 cavab24[1].addEventListener('click', () => {
     cavab24[1].style.backgroundColor = 'red'
     cavab24[1].style.color = 'white'
@@ -1456,7 +1456,7 @@ cavab24[1].addEventListener('click', () => {
     cavab24[0].remove()
     cavab24[2].remove()
     cavab24[3].remove()
-})
+},{once : true})
 cavab24[2].addEventListener('click', () => {
     cavab24[2].style.backgroundColor = 'red'
     cavab24[2].style.color = 'white'
@@ -1471,7 +1471,7 @@ cavab24[2].addEventListener('click', () => {
     cavab24[0].remove()
     cavab24[1].remove()
     cavab24[3].remove()
-})
+},{once : true})
 cavab24[3].addEventListener('click', () => {
     cavab24[3].style.backgroundColor = 'red'
     cavab24[3].style.color = 'white'
@@ -1487,7 +1487,7 @@ cavab24[3].addEventListener('click', () => {
     cavab24[0].remove()
     cavab24[1].remove()
     cavab24[2].remove()
-})
+},{once : true})
 cavab25[0].addEventListener('click', () => {
     cavab25[0].style.backgroundColor = 'red'
     cavab25[0].style.color = 'white'
@@ -1502,7 +1502,7 @@ cavab25[0].addEventListener('click', () => {
     cavab25[1].remove()
     cavab25[2].remove()
     cavab25[3].remove()
-})
+},{once : true})
 cavab25[1].addEventListener('click', () => {
     cavab25[1].style.backgroundColor = 'red'
     cavab25[1].style.color = 'white'
@@ -1517,7 +1517,7 @@ cavab25[1].addEventListener('click', () => {
     cavab25[0].remove()
     cavab25[2].remove()
     cavab25[3].remove()
-})
+},{once : true})
 cavab25[2].addEventListener('click', () => {
     cavab25[2].style.backgroundColor = 'green'
     cavab25[2].style.color = 'white'
@@ -1532,7 +1532,7 @@ cavab25[2].addEventListener('click', () => {
     cavab25[0].remove()
     cavab25[1].remove()
     cavab25[3].remove()
-})
+},{once : true})
 cavab25[3].addEventListener('click', () => {
     cavab25[3].style.backgroundColor = 'red'
     cavab25[3].style.color = 'white'
@@ -1548,4 +1548,4 @@ cavab25[3].addEventListener('click', () => {
     cavab25[0].remove()
     cavab25[1].remove()
     cavab25[2].remove()
-})
+},{once : true})
